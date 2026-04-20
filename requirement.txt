@@ -1,0 +1,19 @@
+# Python 3.9+
+#
+# Install the PyTorch stack with mutually compatible versions.
+# If you use CUDA, you may want to install torch/torchvision/torchtext
+# from the official PyTorch index first, then run:
+# pip install -r requirements.txt
+
+torch
+torchvision
+torchtext
+
+numpy
+scipy
+scikit-learn
+h5py
+matplotlib
+Pillow
+ujson
+calmsize
